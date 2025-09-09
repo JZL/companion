@@ -6,7 +6,7 @@ Supporting material for [Princeton ORF522 course: Linear and Nonlinear Optimizat
 
 1. Click this badge to start a Codespace:
 
-   [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/orf522/companion)
+   [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/JZL/companion)
 
 2. GitHub will create a Codespace. By default, it opens in **VS Code in the browser**.
    - You can **ignore VS Code and close that tab** if you like.
